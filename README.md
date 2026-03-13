@@ -5,6 +5,8 @@ This is the program page of our latest DFLS approach for Face Video Super-Resolu
 
 https://github.com/Shua-Jia/DFLS/issues/2#issue-4069132242
 
+https://github.com/user-attachments/assets/9a6589be-7c19-4583-9002-48e1cb7b48fb
+
 
 ### Dataset
 you can download training data from https://drive.google.com/drive/folders/19DLr27P9xMOTn_W6hxpxxm8_5jJoX-nR
