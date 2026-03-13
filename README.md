@@ -1,5 +1,5 @@
 # Domian Fusion in Latent Space (DFLS) for Face Video Super-Resolution
-This is the program page of our latest DFLS approach for Face Video Super-Resolution(FVSR).
+This is the program page of our latest DFLS approach for Face Video Super-Resolution(FVSR).   Version 1
 
 ## System requirments
 
