@@ -3,9 +3,11 @@ This is the program page of our latest DFLS approach for Face Video Super-Resolu
 
 
 [![Face Video Super-Resolution Demo 01](https://img.youtube.com/vi/DVElNkSY9WM/0.jpg)](https://youtu.be/DVElNkSY9WM)
+
 This is our 8X super-resolution demo, you can click this frame, and then will auto-redirect to YouTube playback.
 
 [![4X Face Video Super-Resolution](https://img.youtube.com/vi/fY6T_epeDSQ/0.jpg)](https://youtu.be/fY6T_epeDSQ)
+
 This is our 4X super-resolution demo, you can click this frame, and then will auto-redirect to YouTube playback.
 
 ### Dataset
