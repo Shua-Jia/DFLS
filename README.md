@@ -1,12 +1,10 @@
 # Domian Fusion in Latent Space (DFLS) for Face Video Super-Resolution
 This is the program page of our latest DFLS approach for Face Video Super-Resolution(FVSR).   Version 1
 
-## System requirments
+[![Face Video Super-Resolution Demo 01](https://img.youtube.com/vi/DVElNkSY9WM/0.jpg)](https://youtu.be/DVElNkSY9WM)
 
-https://github.com/Shua-Jia/DFLS/issues/2#issue-4069132242
 
-https://github.com/user-attachments/assets/9a6589be-7c19-4583-9002-48e1cb7b48fb
-
+[![4X Face Video Super-Resolution](https://img.youtube.com/vi/fY6T_epeDSQ/0.jpg)](https://youtu.be/fY6T_epeDSQ)
 
 ### Dataset
 you can download training data from https://drive.google.com/drive/folders/19DLr27P9xMOTn_W6hxpxxm8_5jJoX-nR
