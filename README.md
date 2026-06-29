@@ -10,6 +10,10 @@ This is our 8X super-resolution demo, you can click this frame, and then will au
 
 This is our 4X super-resolution demo, you can click this frame, and then will auto-redirect to YouTube playback.
 
+### Environment
+Python 3.8
+PyTorch 1.10.1
+
 ### Dataset
 you can download training data from https://drive.google.com/drive/folders/19DLr27P9xMOTn_W6hxpxxm8_5jJoX-nR
 
